@@ -4,7 +4,16 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, World!");
+console.log(1)
+console.log(2+3);
+console.log("Good morning");
+console.log("Good night");
+console.log("Good morning.","Good night");
+console.log('Quothe the Raven: "Caw! Caw! Nevermaw!"');
+console.log("The End");
+
+
 
 /*  
 Next, PLAY! 
